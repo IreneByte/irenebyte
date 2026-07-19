@@ -1,5 +1,11 @@
 ## Hi there 👋
 irenebyte.vercel.app
+
+- who i am
+- what am i working on
+- what tools do i use
+- how do you reach me
+- 
 <!--
 **IreneByte/irenebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
