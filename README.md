@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Irene!
 
-## 👤 Who I am
+### 👤 Who I am
 - 3rd-year Computer Engineering student at McMaster University.
 - Focused on embedded systems, firmware development, systems software, and hardware-software integration.
 
-## 💻 What I'm working on currently
+### 💻 What I'm working on currently
 - Building an ESP32-based ground station and robot control system using FreeRTOS and WebSockets
 - Writing firmware for finite state machines, PID motor control loops, and sensor processing
 
-## 🛠️ What tools & languages I use
+### 🛠️ What tools & languages I use
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,5 +25,5 @@
 </p>
 
 ## 📫 How to reach me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/irene-runsewe/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/irene-runsewe/)
 - Email: runsewei@mcmaster.ca
