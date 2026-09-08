@@ -22,6 +22,6 @@
   <img src="https://img.shields.io/badge/PlatformIO-F4432D?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
-### Contact me
+### Contact me!
 - LinkedIn: [LinkedIn](https://linkedin.com/in/your-username)
 - Email: runsewei@mcmaster.ca
