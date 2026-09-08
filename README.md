@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Irene!
-
 ### Who I am?
 - 3rd-year Computer Engineering student at McMaster
 - Focused on embedded systems, firmware, and systems software
