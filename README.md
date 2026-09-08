@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Irene!
 
 ### Who I am?
-- 3rd-year Computer Engineering student at McMaster.
-- Focused on embedded systems, firmware, and systems software.
+- 3rd-year Computer Engineering student at McMaster
+- Focused on embedded systems, firmware, and systems software
 
 ### What I'm working on currently
 - Building an ESP32 groundstation using FreeRTOS and WebSockets
