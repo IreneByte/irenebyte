@@ -2,11 +2,11 @@
 - 3rd-year Computer Engineering student at McMaster
 - Focused on embedded systems, firmware, and systems software
 
-### What I'm currently working on
+### My current projects
 - Building an ESP32 groundstation using FreeRTOS and WebSockets
 - Developing a multithreaded tick parser to run multiple tasks simultaneously
 
-### Tools & languages I use
+### Tools & languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
