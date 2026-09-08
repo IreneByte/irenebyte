@@ -1,12 +1,12 @@
-### Who I am?
+### Who Am I?
 - 3rd-year Computer Engineering student at McMaster
 - Focused on embedded systems, firmware, and systems software
 
-### My current projects
+### My Current Projects
 - Building an ESP32 groundstation using FreeRTOS and WebSockets
 - Developing a multithreaded tick parser to run multiple tasks simultaneously
 
-### Tools & languages
+### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -22,6 +22,6 @@
   <img src="https://img.shields.io/badge/PlatformIO-F4432D?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
-### Contact me!
+### Contact Me!
 - LinkedIn: [LinkedIn](https://linkedin.com/in/your-username)
 - Email: runsewei@mcmaster.ca
