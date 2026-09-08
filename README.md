@@ -1,6 +1,6 @@
 ### Who Am I?
-- Program: Level III Computer Engineering student at McMaster University
-- Focuses: Embedded systems, firmware, and systems software
+- Level III Computer Engineering student at McMaster University
+- Focused on embedded systems, firmware, and systems software
 
 ### My Current Projects
 - ESP32 groundstation using FreeRTOS and WebSockets
