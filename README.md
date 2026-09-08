@@ -1,6 +1,6 @@
 ### Who Am I?
-- 3rd-year Computer Engineering student at McMaster
-- Focused on embedded systems, firmware, and systems software
+- Program: Level III Computer Engineering student at McMaster University
+- Focuses: Embedded systems, firmware, and systems software
 
 ### My Current Projects
 - Building an ESP32 groundstation using FreeRTOS and WebSockets
