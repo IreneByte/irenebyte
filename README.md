@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Irene!
+## Hi there 👋, I'm Irene!
 
-### 👤 Who I am
-- 3rd-year Computer Engineering student at McMaster
-- Focused on embedded systems, firmware, and systems software
+### ▸ Who I am
+- 3rd-year Computer Engineering student at McMaster.
+- Focused on embedded systems, firmware, and systems software.
 
-### 💻 What I'm working on currently
-- Building an ESP32 ground station using FreeRTOS and WebSockets
-- Developing a multithreaded tick parser for concurrent data streams
+### ▸ What I'm working on currently
+- Building an ESP32 ground station using FreeRTOS and WebSockets.
+- Developing a multithreaded tick parser for concurrent data streams.
 
-### 🛠️ What tools & languages I use
+### ▸ What tools & languages I use
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/PlatformIO-F4432D?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
-## 📫 How to reach me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/irene-runsewe/)
+### ▸ How to reach me
+- LinkedIn: [LinkedIn](https://linkedin.com/in/your-username)
 - Email: runsewei@mcmaster.ca
