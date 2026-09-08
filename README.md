@@ -3,8 +3,8 @@
 - Focuses: Embedded systems, firmware, and systems software
 
 ### My Current Projects
-- Building an ESP32 groundstation using FreeRTOS and WebSockets
-- Developing a multithreaded tick parser to run multiple tasks simultaneously
+- ESP32 groundstation using FreeRTOS and WebSockets
+- Multithreaded tick parser to run multiple tasks simultaneously
 
 ### Languages & Tools
 <p>
