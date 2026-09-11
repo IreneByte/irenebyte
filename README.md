@@ -23,5 +23,5 @@
 </p>
 
 ### Contact Me!
-- LinkedIn: [LinkedIn](https://linkedin.com/in/your-username)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/irene-runsewe)
 - Email: runsewei@mcmaster.ca
